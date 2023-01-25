@@ -1,0 +1,15 @@
+D:\Github\max=sum\bin\Debug\net6.0\max=sum.exe
+D:\Github\max=sum\bin\Debug\net6.0\max=sum.deps.json
+D:\Github\max=sum\bin\Debug\net6.0\max=sum.runtimeconfig.json
+D:\Github\max=sum\bin\Debug\net6.0\max=sum.dll
+D:\Github\max=sum\bin\Debug\net6.0\max=sum.pdb
+D:\Github\max=sum\obj\Debug\net6.0\max=sum.csproj.AssemblyReference.cache
+D:\Github\max=sum\obj\Debug\net6.0\max=sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\max=sum\obj\Debug\net6.0\max=sum.AssemblyInfoInputs.cache
+D:\Github\max=sum\obj\Debug\net6.0\max=sum.AssemblyInfo.cs
+D:\Github\max=sum\obj\Debug\net6.0\max=sum.csproj.CoreCompileInputs.cache
+D:\Github\max=sum\obj\Debug\net6.0\max=sum.dll
+D:\Github\max=sum\obj\Debug\net6.0\refint\max=sum.dll
+D:\Github\max=sum\obj\Debug\net6.0\max=sum.pdb
+D:\Github\max=sum\obj\Debug\net6.0\max=sum.genruntimeconfig.cache
+D:\Github\max=sum\obj\Debug\net6.0\ref\max=sum.dll

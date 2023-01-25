@@ -5,17 +5,19 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "four-for loop", "C sharp projects i can use\four-for loop.csproj", "{AEFAF92F-8FE4-4821-886F-45EA18A2E2A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "triangle", "triangle\triangle.csproj", "{FF40516D-04B4-477C-90AD-8E0F32C50FAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "triangle", "triangle\triangle.csproj", "{FF40516D-04B4-477C-90AD-8E0F32C50FAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hristogram", "hristogram\hristogram.csproj", "{6EC30A5C-74BB-4B9D-A7EF-650D1E3B5C54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hristogram", "hristogram\hristogram.csproj", "{6EC30A5C-74BB-4B9D-A7EF-650D1E3B5C54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "max=sum", "max=sum\max=sum.csproj", "{082AA84E-A285-40F3-92F8-3E5CECAF922F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "max=sum", "max=sum\max=sum.csproj", "{082AA84E-A285-40F3-92F8-3E5CECAF922F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pass guess", "pass guess\pass guess.csproj", "{139C1103-483C-4E5E-B0C5-D9A2F24BCE0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pass guess", "pass guess\pass guess.csproj", "{139C1103-483C-4E5E-B0C5-D9A2F24BCE0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strong number", "strong number\strong number.csproj", "{0B34CD3A-88AC-4860-9AEE-B2462A3E06E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "strong number", "strong number\strong number.csproj", "{0B34CD3A-88AC-4860-9AEE-B2462A3E06E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vending machine", "vending machine\vending machine.csproj", "{BEB66279-6DCF-4002-B444-CCFEBB3D9290}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vending machine", "vending machine\vending machine.csproj", "{BEB66279-6DCF-4002-B444-CCFEBB3D9290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemnon", "pokemnon\pokemnon.csproj", "{9769C4FE-1E63-46C3-8643-AF69158A1A28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{BEB66279-6DCF-4002-B444-CCFEBB3D9290}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEB66279-6DCF-4002-B444-CCFEBB3D9290}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEB66279-6DCF-4002-B444-CCFEBB3D9290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9769C4FE-1E63-46C3-8643-AF69158A1A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9769C4FE-1E63-46C3-8643-AF69158A1A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9769C4FE-1E63-46C3-8643-AF69158A1A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9769C4FE-1E63-46C3-8643-AF69158A1A28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+D:\Github\triangle\bin\Debug\net6.0\triangle.exe
+D:\Github\triangle\bin\Debug\net6.0\triangle.deps.json
+D:\Github\triangle\bin\Debug\net6.0\triangle.runtimeconfig.json
+D:\Github\triangle\bin\Debug\net6.0\triangle.dll
+D:\Github\triangle\bin\Debug\net6.0\triangle.pdb
+D:\Github\triangle\obj\Debug\net6.0\triangle.csproj.AssemblyReference.cache
+D:\Github\triangle\obj\Debug\net6.0\triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\triangle\obj\Debug\net6.0\triangle.AssemblyInfoInputs.cache
+D:\Github\triangle\obj\Debug\net6.0\triangle.AssemblyInfo.cs
+D:\Github\triangle\obj\Debug\net6.0\triangle.csproj.CoreCompileInputs.cache
+D:\Github\triangle\obj\Debug\net6.0\triangle.dll
+D:\Github\triangle\obj\Debug\net6.0\refint\triangle.dll
+D:\Github\triangle\obj\Debug\net6.0\triangle.pdb
+D:\Github\triangle\obj\Debug\net6.0\triangle.genruntimeconfig.cache
+D:\Github\triangle\obj\Debug\net6.0\ref\triangle.dll

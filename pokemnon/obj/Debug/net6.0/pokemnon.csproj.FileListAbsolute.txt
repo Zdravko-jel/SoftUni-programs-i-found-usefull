@@ -1,0 +1,15 @@
+D:\Github\pokemnon\bin\Debug\net6.0\pokemnon.exe
+D:\Github\pokemnon\bin\Debug\net6.0\pokemnon.deps.json
+D:\Github\pokemnon\bin\Debug\net6.0\pokemnon.runtimeconfig.json
+D:\Github\pokemnon\bin\Debug\net6.0\pokemnon.dll
+D:\Github\pokemnon\bin\Debug\net6.0\pokemnon.pdb
+D:\Github\pokemnon\obj\Debug\net6.0\pokemnon.csproj.AssemblyReference.cache
+D:\Github\pokemnon\obj\Debug\net6.0\pokemnon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\pokemnon\obj\Debug\net6.0\pokemnon.AssemblyInfoInputs.cache
+D:\Github\pokemnon\obj\Debug\net6.0\pokemnon.AssemblyInfo.cs
+D:\Github\pokemnon\obj\Debug\net6.0\pokemnon.csproj.CoreCompileInputs.cache
+D:\Github\pokemnon\obj\Debug\net6.0\pokemnon.dll
+D:\Github\pokemnon\obj\Debug\net6.0\refint\pokemnon.dll
+D:\Github\pokemnon\obj\Debug\net6.0\pokemnon.pdb
+D:\Github\pokemnon\obj\Debug\net6.0\pokemnon.genruntimeconfig.cache
+D:\Github\pokemnon\obj\Debug\net6.0\ref\pokemnon.dll

@@ -1,0 +1,15 @@
+D:\Github\strong number\bin\Debug\net6.0\strong number.exe
+D:\Github\strong number\bin\Debug\net6.0\strong number.deps.json
+D:\Github\strong number\bin\Debug\net6.0\strong number.runtimeconfig.json
+D:\Github\strong number\bin\Debug\net6.0\strong number.dll
+D:\Github\strong number\bin\Debug\net6.0\strong number.pdb
+D:\Github\strong number\obj\Debug\net6.0\strong number.csproj.AssemblyReference.cache
+D:\Github\strong number\obj\Debug\net6.0\strong number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\strong number\obj\Debug\net6.0\strong number.AssemblyInfoInputs.cache
+D:\Github\strong number\obj\Debug\net6.0\strong number.AssemblyInfo.cs
+D:\Github\strong number\obj\Debug\net6.0\strong number.csproj.CoreCompileInputs.cache
+D:\Github\strong number\obj\Debug\net6.0\strong number.dll
+D:\Github\strong number\obj\Debug\net6.0\refint\strong number.dll
+D:\Github\strong number\obj\Debug\net6.0\strong number.pdb
+D:\Github\strong number\obj\Debug\net6.0\strong number.genruntimeconfig.cache
+D:\Github\strong number\obj\Debug\net6.0\ref\strong number.dll

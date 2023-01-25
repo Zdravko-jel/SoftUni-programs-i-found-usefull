@@ -1,0 +1,15 @@
+D:\Github\vending machine\bin\Debug\net6.0\vending machine.exe
+D:\Github\vending machine\bin\Debug\net6.0\vending machine.deps.json
+D:\Github\vending machine\bin\Debug\net6.0\vending machine.runtimeconfig.json
+D:\Github\vending machine\bin\Debug\net6.0\vending machine.dll
+D:\Github\vending machine\bin\Debug\net6.0\vending machine.pdb
+D:\Github\vending machine\obj\Debug\net6.0\vending machine.csproj.AssemblyReference.cache
+D:\Github\vending machine\obj\Debug\net6.0\vending machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\vending machine\obj\Debug\net6.0\vending machine.AssemblyInfoInputs.cache
+D:\Github\vending machine\obj\Debug\net6.0\vending machine.AssemblyInfo.cs
+D:\Github\vending machine\obj\Debug\net6.0\vending machine.csproj.CoreCompileInputs.cache
+D:\Github\vending machine\obj\Debug\net6.0\vending machine.dll
+D:\Github\vending machine\obj\Debug\net6.0\refint\vending machine.dll
+D:\Github\vending machine\obj\Debug\net6.0\vending machine.pdb
+D:\Github\vending machine\obj\Debug\net6.0\vending machine.genruntimeconfig.cache
+D:\Github\vending machine\obj\Debug\net6.0\ref\vending machine.dll

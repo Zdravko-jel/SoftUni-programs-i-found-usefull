@@ -1,0 +1,15 @@
+D:\Github\pass guess\bin\Debug\net6.0\pass guess.exe
+D:\Github\pass guess\bin\Debug\net6.0\pass guess.deps.json
+D:\Github\pass guess\bin\Debug\net6.0\pass guess.runtimeconfig.json
+D:\Github\pass guess\bin\Debug\net6.0\pass guess.dll
+D:\Github\pass guess\bin\Debug\net6.0\pass guess.pdb
+D:\Github\pass guess\obj\Debug\net6.0\pass guess.csproj.AssemblyReference.cache
+D:\Github\pass guess\obj\Debug\net6.0\pass guess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\pass guess\obj\Debug\net6.0\pass guess.AssemblyInfoInputs.cache
+D:\Github\pass guess\obj\Debug\net6.0\pass guess.AssemblyInfo.cs
+D:\Github\pass guess\obj\Debug\net6.0\pass guess.csproj.CoreCompileInputs.cache
+D:\Github\pass guess\obj\Debug\net6.0\pass guess.dll
+D:\Github\pass guess\obj\Debug\net6.0\refint\pass guess.dll
+D:\Github\pass guess\obj\Debug\net6.0\pass guess.pdb
+D:\Github\pass guess\obj\Debug\net6.0\pass guess.genruntimeconfig.cache
+D:\Github\pass guess\obj\Debug\net6.0\ref\pass guess.dll

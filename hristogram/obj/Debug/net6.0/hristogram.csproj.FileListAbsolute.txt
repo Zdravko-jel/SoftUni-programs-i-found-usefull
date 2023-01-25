@@ -1,0 +1,15 @@
+D:\Github\hristogram\bin\Debug\net6.0\hristogram.exe
+D:\Github\hristogram\bin\Debug\net6.0\hristogram.deps.json
+D:\Github\hristogram\bin\Debug\net6.0\hristogram.runtimeconfig.json
+D:\Github\hristogram\bin\Debug\net6.0\hristogram.dll
+D:\Github\hristogram\bin\Debug\net6.0\hristogram.pdb
+D:\Github\hristogram\obj\Debug\net6.0\hristogram.csproj.AssemblyReference.cache
+D:\Github\hristogram\obj\Debug\net6.0\hristogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\hristogram\obj\Debug\net6.0\hristogram.AssemblyInfoInputs.cache
+D:\Github\hristogram\obj\Debug\net6.0\hristogram.AssemblyInfo.cs
+D:\Github\hristogram\obj\Debug\net6.0\hristogram.csproj.CoreCompileInputs.cache
+D:\Github\hristogram\obj\Debug\net6.0\hristogram.dll
+D:\Github\hristogram\obj\Debug\net6.0\refint\hristogram.dll
+D:\Github\hristogram\obj\Debug\net6.0\hristogram.pdb
+D:\Github\hristogram\obj\Debug\net6.0\hristogram.genruntimeconfig.cache
+D:\Github\hristogram\obj\Debug\net6.0\ref\hristogram.dll
